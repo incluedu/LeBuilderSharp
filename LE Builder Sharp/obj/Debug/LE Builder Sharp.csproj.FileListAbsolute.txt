@@ -1,0 +1,19 @@
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\bin\Debug\LE_Builder_Sharp.exe.config
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\bin\Debug\LE_Builder_Sharp.exe
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\bin\Debug\LE_Builder_Sharp.pdb
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\obj\Debug\LE Builder Sharp.csprojAssemblyReference.cache
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\obj\Debug\MainWindow.g.cs
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\obj\Debug\App.g.cs
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\obj\Debug\LE_Builder_Sharp_MarkupCompile.cache
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\obj\Debug\MainWindow.baml
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\obj\Debug\LE_Builder_Sharp.g.resources
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\obj\Debug\LE_Builder_Sharp.Properties.Resources.resources
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\obj\Debug\LE Builder Sharp.csproj.GenerateResource.cache
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\obj\Debug\LE Builder Sharp.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\obj\Debug\LE_Builder_Sharp.exe
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\obj\Debug\LE_Builder_Sharp.pdb
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\bin\Debug\de-DE\LE_Builder_Sharp.resources.dll
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\obj\Debug\LE_Builder_Sharp_MarkupCompile.lref
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\obj\Debug\LE_Builder_Sharp.i18n.MainWindow.resources
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\obj\Debug\LE_Builder_Sharp.i18n.MainWindow.de-DE.resources
+D:\c#\c#Projects\LE Builder Sharp\LE Builder Sharp\obj\Debug\de-DE\LE_Builder_Sharp.resources.dll

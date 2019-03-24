@@ -43,11 +43,6 @@
                 <MenuItem Header="Manage Shortcuts" />
             </MenuItem>
 
-            <!--View menu-->
-            <MenuItem Header="_View">
-                <MenuItem Header="Show toolbar text" IsCheckable="True" />
-            </MenuItem>
-
             <!--LE menu-->
             <MenuItem Header="_LE">
                 <MenuItem Header="LE request with _IP" />
@@ -57,6 +52,10 @@
                 <MenuItem Header="_Modify LE" />
                 <Separator />
                 <MenuItem Header="C_opy data" />
+            </MenuItem>
+
+            <MenuItem Header="_PLC">
+                <MenuItem Header="_Connect to PLC" Click="On_ConnectToPlc" />
             </MenuItem>
 
             <!--Help menu-->
@@ -73,36 +72,26 @@
         <!--========-->
         <ToolBarTray Grid.Row="1">
             <ToolBar ToolBarTray.IsLocked="True" Loaded="FrameworkElement_OnLoaded">
-                <Button>
-                    <DockPanel>
-                        <Image Source="icons/requestIp.png" Stretch="None" Width="30"/>
-                        <TextBlock>Request with IP</TextBlock>
-                    </DockPanel>
+                <Button ToolTip="Request from PLC with IP (current position)">
+                    <Image Source="icons/requestIp.png" />
                 </Button>
-                <Button>
-                    <DockPanel>
-                        <Image Source="icons/requestLe.png" Stretch="None" Width="30"/>
-                        <TextBlock>Request with LE</TextBlock>
-                    </DockPanel>
+                <Button ToolTip="Request from PLC with LE number">
+                    <Image Source="icons/requestLe.png" />
                 </Button>
-                <Button>
-                    <DockPanel>
-                        <Image Source="icons/delete.png" Stretch="None" Width="30"/>
-                        <TextBlock>Delete LE</TextBlock>
-                    </DockPanel>
+                <Button ToolTip="Delete LE">
+                    <Image Source="icons/delete.png" />
                 </Button>
-                <Button>
-                    <DockPanel>
-                        <Image Source="icons/create.png" Stretch="None" Width="30"/>
-                        <TextBlock>Create LE</TextBlock>
-                    </DockPanel>
+                <Button ToolTip="Create LE">
+                    <Image Source="icons/create.png" />
                 </Button>
-                <Button>
-                    <DockPanel>
-                        <Image Source="icons/modify.png" Stretch="None" Width="30"/>
-                        <TextBlock>Modify LE</TextBlock>
-                    </DockPanel>
+                <Button ToolTip="Modify LE">
+                    <Image Source="icons/modify.png" />
                 </Button>
+                <Separator />
+                <Button ToolTip="Connect to PLC" Click="On_ConnectToPlc">
+                    <Image Source="icons/view.png" />
+                </Button>
+
             </ToolBar>
         </ToolBarTray>
 

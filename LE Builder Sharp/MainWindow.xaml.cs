@@ -22,5 +22,10 @@ namespace LE_Builder_Sharp
             if (toolBar.Template.FindName("MainPanelBorder", toolBar) is FrameworkElement mainPanelBorder)
                 mainPanelBorder.Margin = new Thickness();
         }
+
+        private void On_ConnectToPlc(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Not implemented yet!", "Sorry!", MessageBoxButton.OK, MessageBoxImage.Information);
+        }
     }
 }
