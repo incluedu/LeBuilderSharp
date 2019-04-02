@@ -39,8 +39,8 @@
 
             <!--Edit menu-->
             <MenuItem Header="_Edit">
-                <MenuItem Header="Add LE as Shortcut" />
-                <MenuItem Header="Manage Shortcuts" />
+                <MenuItem Header="{x:Static i18n:MainWindow.MI_Edit_AddLeAsShortcut}" />
+                <MenuItem Header="{x:Static i18n:MainWindow.MI_Edit_ManageShortcuts}" />
             </MenuItem>
 
             <!--LE menu-->
@@ -82,14 +82,14 @@
                     <Image Source="icons/delete.png" />
                 </Button>
                 <Button ToolTip="Create LE">
-                    <Image Source="icons/create.png" />
+                    <Image Source="icons/new.png" />
                 </Button>
                 <Button ToolTip="Modify LE">
-                    <Image Source="icons/modify.png" />
+                    <Image Source="icons/edit.png" />
                 </Button>
                 <Separator />
                 <Button ToolTip="Connect to PLC" Click="On_ConnectToPlc">
-                    <Image Source="icons/view.png" />
+                    <Image Source="icons/connect.png" />
                 </Button>
 
             </ToolBar>

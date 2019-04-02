@@ -25,6 +25,7 @@ namespace LE_Builder_Sharp
 
         private void On_ConnectToPlc(object sender, RoutedEventArgs e)
         {
+            
             MessageBox.Show("Not implemented yet!", "Sorry!", MessageBoxButton.OK, MessageBoxImage.Information);
         }
     }

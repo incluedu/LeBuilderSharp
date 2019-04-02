@@ -8,8 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("icons/create.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("icons/delete.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("icons/modify.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("icons/new.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("icons/edit.png")]
 
 

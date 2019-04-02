@@ -149,4 +149,10 @@
     <data name="MI_General_Exit" xml:space="preserve">
     <value>_Exit</value>
   </data>
+    <data name="MI_Edit_AddLeAsShortcut" xml:space="preserve">
+        <value>Add LE as Shortcut</value>
+    </data>
+    <data name="MI_Edit_ManageShortcuts" xml:space="preserve">
+        <value>Manage Shortcuts</value>
+    </data>
 </root>

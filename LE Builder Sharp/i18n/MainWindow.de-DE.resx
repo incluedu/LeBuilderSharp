@@ -149,4 +149,10 @@
     <data name="MI_General_Exit" xml:space="preserve">
     <value>_Beenden</value>
   </data>
+    <data name="MI_Edit_AddLeAsShortcut" xml:space="preserve">
+        <value>LE zu Verknüpfungen _hinzufügen</value>
+    </data>
+    <data name="MI_Edit_ManageShortcuts" xml:space="preserve">
+        <value>_Verknüpfungen verwalten</value>
+    </data>
 </root>

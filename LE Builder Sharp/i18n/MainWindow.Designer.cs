@@ -61,6 +61,24 @@ namespace LE_Builder_Sharp.i18n {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Add LE as Shortcut.
+        /// </summary>
+        public static string MI_Edit_AddLeAsShortcut {
+            get {
+                return ResourceManager.GetString("MI_Edit_AddLeAsShortcut", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Manage Shortcuts.
+        /// </summary>
+        public static string MI_Edit_ManageShortcuts {
+            get {
+                return ResourceManager.GetString("MI_Edit_ManageShortcuts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to E_dit Project.
         /// </summary>
         public static string MI_General_EditProject_Header {
